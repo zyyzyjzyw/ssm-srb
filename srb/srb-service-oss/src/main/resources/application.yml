@@ -14,6 +14,6 @@ spring:
 aliyun:
   oss:
     endpoint: oss-cn-hangzhou.aliyuncs.com
-    keyId: LTAI5tPvkuCHpc9AeAHsMbkH
-    keySecret: SfUbDsiQWa6KHLLwi3q8YIuAjYeRXC
+    keyId: 您的keyId
+    keySecret: 您的keySecret
     bucketName: srb-upload

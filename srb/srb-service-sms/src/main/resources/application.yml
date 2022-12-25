@@ -34,10 +34,10 @@ spring:
 aliyun:
   sms:
     region-id: cn-hangzhou
-    key-id: LTAI5tPvkuCHpc9AeAHsMbkH
-    key-secret: SfUbDsiQWa6KHLLwi3q8YIuAjYeRXC
-    template-code: SMS_262570127
-    sign-name: 遥遥科技
+    keyId: 您的keyId
+    keySecret: 您的keySecret
+    template-code: 您的template-code
+    sign-name: 您的sign-name
 feign:
   client:
     config:
